@@ -1,4 +1,11 @@
 Deployment link: https://sam-xiexielaoshi.github.io/rollTheDice/
+
+
+
+
+
+
+
 Rules:
 -first to reach 50 points wins
 -the dice will be rolled with it randomly shows 1 as result
